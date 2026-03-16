@@ -1,4 +1,4 @@
-#Analizador de LOgs y validador de contraseñas 
+#Analizador de Logs y validador de contraseñas 
 
   Este trabajo fue hecho con bash, anteriormente intenté usar python pero se me hizo muy complocad y al checar los programas había errores,
   este trabajo fue creado para para procesar archivos de texto, realizar filtros logs y principalmente pata hacer validaciones haciendo 
